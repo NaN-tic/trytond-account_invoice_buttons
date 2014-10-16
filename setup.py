@@ -40,7 +40,7 @@ tests_require = ['proteus >= %s.%s, < %s.%s' %
 
 setup(name='%s_%s' % (PREFIX, MODULE),
     version=info.get('version', '0.0.1'),
-    description='Tryton module add Galatea access in newsletters',
+    description='Tryton module add buttons in tree view',
     author='Zikzakmedia SL',
     author_email='zikzak@zikzakmedia.com',
     url='http://www.zikzakmedia.com',
