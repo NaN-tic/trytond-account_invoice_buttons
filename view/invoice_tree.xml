@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- This file is part account_invoice_buttons module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full copyright notices and license terms. -->
+<data>
+    <xpath expr="/tree/field[@name='description']" position="after">
+        <button name="cancel" string="Cancel" tree_invisible="1"
+            confirm="Are you sure to cancel invoices?"/>
+        <button name="draft" string="Draft" tree_invisible="1"/>
+        <button name="validate_invoice" string="Validate" tree_invisible="1"/>
+        <button name="post" string="Post" tree_invisible="1"/>
+        <button name="pay" string="Pay" tree_invisible="1"/>
+    </xpath>
+</data>

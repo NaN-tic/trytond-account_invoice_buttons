@@ -1,0 +1,27 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "view:account.invoice:"
+msgid "Are you sure to cancel invoices?"
+msgstr "Esteu segurs de cancelar les factures?"
+
+msgctxt "view:account.invoice:"
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgctxt "view:account.invoice:"
+msgid "Draft"
+msgstr "Esborrany"
+
+msgctxt "view:account.invoice:"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "view:account.invoice:"
+msgid "Post"
+msgstr "Confirma"
+
+msgctxt "view:account.invoice:"
+msgid "Validate"
+msgstr "Valida"
